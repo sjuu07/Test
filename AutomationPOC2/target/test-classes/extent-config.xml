@@ -1,0 +1,22 @@
+<extentreports>
+    <!-- Configuration for Spark Reporter -->
+    <configuration>
+        <!-- Title for the report -->
+        <reportName>My Automation Test Report</reportName>
+        
+        <!-- Title for the document -->
+        <documentTitle>Automation Execution Results</documentTitle>
+        
+        <!-- Encoding for the report -->
+        <encoding>UTF-8</encoding>
+        
+        <!-- Theme for the report -->
+        <theme>standard</theme> <!-- Options: standard, dark -->
+        
+        <!-- Protocol (http or https) for accessing external resources -->
+        <protocol>https</protocol>
+        
+        <!-- Enable Timeline -->
+        <timelineEnabled>true</timelineEnabled>
+    </configuration>
+</extentreports>
